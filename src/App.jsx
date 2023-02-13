@@ -32,6 +32,3 @@ function App() {
 }
 
 export default App;
-
-//https://tailwindcss.com/docs/installation
-//https://tailwindcss.com/docs/guides/vite
